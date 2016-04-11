@@ -1,9 +1,9 @@
 {
   "name": "chartist-elements",
   "version": "0.0.1",
-  "homepage": "https://github.com/ohanhi/chartist-elements",
+  "homepage": "https://github.com/goje87/chartist-elements",
   "authors": [
-    "ohanhi <ossi.hanhinen@gmail.com>"
+    "me@goje87.com"
   ],
   "main": "index.html",
   "keywords": [
